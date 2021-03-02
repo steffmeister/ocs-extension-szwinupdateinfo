@@ -1,0 +1,11 @@
+{
+  "displayName" : "Windows Update Information",
+  "author" : ["Stefan ZIDAR"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "en" : "Show update infos of a windows machine"
+  }
+}
